@@ -1,0 +1,21 @@
+From: Prof. Ramesh Verma <ramesh.verma@college.edu>
+To: All-Final-Year-Capstone-Students <capstone-2026@college.edu>
+Date: 04 October 2026 14:32:18 +0530
+Subject: URGENT: Capstone Project Submission Deadline Extension & Lab Access
+
+Dear Students and Project Guides,
+
+Following student representations regarding festive recess and limited hardware GPU lab availability,
+the final project submission deadline has been officially extended:
+
+REVISED SUBMISSION DEADLINE: 25 OCTOBER 2026, 23:59 IST
+
+Please note this change supersedes previous dates. All student project teams must submit their complete code
+and technical report by 25 October 2026.
+
+(Note: Submission method, online portal link, and required bundle guidelines will be issued in a subsequent addendum.)
+
+Best regards,
+Prof. Ramesh Verma
+Capstone Project Coordinator
+Department of Computer Science & Engineering

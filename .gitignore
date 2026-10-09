@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node dependencies and build
+node_modules
+dist
+dist-ssr
+*.local
+
+# Python & Runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+backend/__pycache__/
+backend/git_repo/
+backend/uploads/
+uploads/
+scratch/
+
+# Database file (fresh DB auto-initializes on startup)
+*.db-journal
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
